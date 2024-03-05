@@ -1,0 +1,6 @@
+num1=int(input("Enter the integer number:"))
+num2=float(input("Enter floating point number:"))
+str1=input("Enter any String:")
+print("num1:",num1)
+print("num2:",num2)
+print("string:",str1)
